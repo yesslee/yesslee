@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     <!-- 다크 테마 -->
     <source media="(prefers-color-scheme: dark)"
             srcset="https://github-readme-stats.vercel.app/api?username=yesslee&show_icon=true&theme=vue-dark&hide_border=true&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=yesslee&show_icons=true&theme=vue&hide_border=true&count_private=true" width=56% />
+    <img src="https://github-readme-stats.vercel.app/api?username=yesslee&show_icons=true&theme=vue&hide_border=true&count_private=true" width=54% />
   </picture>
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
