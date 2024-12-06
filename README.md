@@ -26,8 +26,24 @@ Here are some ideas to get you started:
   </picture>
 </a>    
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=yesslee&show_icons=true&theme=vue&hide_border=true&count_private=true" width=56% />
+  <picture>
+    <!-- 라이트 테마 -->
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://github-readme-stats.vercel.app/api?username=yesslee&show_icons=true&theme=vue&hide_border=true&count_private=true" />
+    <!-- 다크 테마 -->
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://github-readme-stats.vercel.app/api?username=yesslee&show_icon=true&theme=vue-dark&hide_border=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=yesslee&show_icons=true&theme=vue&hide_border=true&count_private=true" width=56% />
+  </picture>
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <picture>
+    <!-- 라이트 테마 -->
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://github-readme-activity-graph.vercel.app/graph?username=yesslee&theme=vue&hide_border=true&bg_color=ffffff&point=273849" />
+    <!-- 다크 테마 -->
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://github-readme-activity-graph.vercel.app/graph?username=yesslee&theme=vue&hide_border=true" />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=yesslee&theme=vue&hide_border=true&bg_color=ffffff&point=273849" width=94%/>
+  </picture>
 </a>
