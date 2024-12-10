@@ -39,11 +39,11 @@
 ### Algorithm
   
 <!-- Programmers Badge -->
-<img src="https://raw.githubusercontent.com/yesslee/Programmers_Badge_Generator/main/result/result.svg" width="38%" />
+<img src="https://raw.githubusercontent.com/yesslee/Programmers_Badge_Generator/main/result/result.svg" width="41%" />
 
 <!-- Solved.ac Badge -->
 <a href="https://solved.ac/yesslee31">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yesslee31" width="38%"/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yesslee31" width="41%"/>
 </a>
 
 ### 📖 Github Status
@@ -57,7 +57,7 @@
     <!-- 다크 테마 -->
     <source media="(prefers-color-scheme: dark)"
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yesslee&layout=donut&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&exclude_repo=2022-FileProcessing,webclient-2019-01,CodingTestSolutions" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesslee&layout=donut&show_icons=true&theme=vue&hide_border=true&count_private=true&exclude_repo=2022-FileProcessing,webclient-2019-01,CodingTestSolutions" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesslee&layout=donut&show_icons=true&theme=vue&hide_border=true&count_private=true&exclude_repo=2022-FileProcessing,webclient-2019-01,CodingTestSolutions" width=41% />
   </picture>
 </a>
 
@@ -70,7 +70,7 @@
     <!-- 다크 테마 -->
     <source media="(prefers-color-scheme: dark)"
             srcset="https://github-readme-stats.vercel.app/api?username=yesslee&show_icon=true&theme=vue-dark&hide_border=true&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=yesslee&show_icons=true&theme=vue&hide_border=true&count_private=true" width=54% />
+    <img src="https://github-readme-stats.vercel.app/api?username=yesslee&show_icons=true&theme=vue&hide_border=true&count_private=true" width=58% />
   </picture>
 </a>
 
@@ -83,16 +83,18 @@
     <!-- 다크 테마 -->
     <source media="(prefers-color-scheme: dark)"
             srcset="https://github-readme-activity-graph.vercel.app/graph?username=yesslee&theme=vue&hide_border=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yesslee&theme=vue&hide_border=true&bg_color=ffffff&point=273849" width=92%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yesslee&theme=vue&hide_border=true&bg_color=ffffff&point=273849" width=100%/>
   </picture>
 </a>
 
 <br><br>
 
 <!-- Hit counter -->
-<a href="https://hits.seeyoufarm.com">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyesslee%2Fhit-counter&count_bg=%2342B883&title_bg=%2335495E&icon=github.svg&icon_color=%23E7E7E7&title=Hello%21&edge_flat=false"/>
-</a>
+<div align="right">
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyesslee%2Fhit-counter&count_bg=%2342B883&title_bg=%2335495E&icon=github.svg&icon_color=%23E7E7E7&title=Hello%21&edge_flat=false"/>
+  </a>
+</div>
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&text=&fontSize=0&color=0:A5D6A7,10:4CAF50,30:388E3C,75:00796B,100:CDDC39&height=80&section=footer" width="100%"/>
