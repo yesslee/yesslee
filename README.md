@@ -38,11 +38,15 @@
   ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
   
   ### 🚌 Top Langs & Algorithm
-  [![Solved.ac
-  프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yesslee31)](https://solved.ac/profile/yesslee31)
-
   </div>
+
+
+  <!-- Solved.ac Profile -->
+  <a href="https://solved.ac/yesslee31">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yesslee31" width="40%">
+  </a>
   
+  <!-- Most used language -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <picture>
       <!-- 라이트 테마 -->
@@ -51,9 +55,11 @@
       <!-- 다크 테마 -->
       <source media="(prefers-color-scheme: dark)"
               srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yesslee&layout=donut&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&exclude_repo=2022-FileProcessing,webclient-2019-01,CodingTestSolutions" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesslee&layout=donut&show_icons=true&theme=vue&hide_border=true&count_private=true&exclude_repo=2022-FileProcessing,webclient-2019-01,CodingTestSolutions" width=38% />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesslee&layout=donut&show_icons=true&theme=vue&hide_border=true&count_private=true&exclude_repo=2022-FileProcessing,webclient-2019-01,CodingTestSolutions" width=40% />
     </picture>
-  </a>    
+  </a>
+  
+  <!-- Github status -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <picture>
       <!-- 라이트 테마 -->
@@ -62,9 +68,11 @@
       <!-- 다크 테마 -->
       <source media="(prefers-color-scheme: dark)"
               srcset="https://github-readme-stats.vercel.app/api?username=yesslee&show_icon=true&theme=vue-dark&hide_border=true&count_private=true" />
-      <img src="https://github-readme-stats.vercel.app/api?username=yesslee&show_icons=true&theme=vue&hide_border=true&count_private=true" width=54% />
+      <img src="https://github-readme-stats.vercel.app/api?username=yesslee&show_icons=true&theme=vue&hide_border=true&count_private=true" width=30% />
     </picture>
   </a>
+
+  <!-- Github activity graph -->
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <picture>
       <!-- 라이트 테마 -->
@@ -73,7 +81,7 @@
       <!-- 다크 테마 -->
       <source media="(prefers-color-scheme: dark)"
               srcset="https://github-readme-activity-graph.vercel.app/graph?username=yesslee&theme=vue&hide_border=true" />
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=yesslee&theme=vue&hide_border=true&bg_color=ffffff&point=273849" width=92%/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=yesslee&theme=vue&hide_border=true&bg_color=ffffff&point=273849" width=60%/>
     </picture>
   </a>
 
