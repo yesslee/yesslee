@@ -37,16 +37,14 @@
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 
 ### Algorithm
-
-<div align="left" style="display: flex;">
-  <!-- Solved.ac Badge -->
-  <a href="https://solved.ac/yesslee31">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yesslee31" width="38%" />
-  </a>
   
-  <!-- Programmers Badge -->
-  <img src="https://raw.githubusercontent.com/yesslee/Programmers_Badge_Generator/main/result/result.svg" width="46%" />
-</div>
+<!-- Programmers Badge -->
+<img src="https://raw.githubusercontent.com/yesslee/Programmers_Badge_Generator/main/result/result.svg" width="35%" />
+
+<!-- Solved.ac Badge -->
+<a href="https://solved.ac/yesslee31">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yesslee31" />
+</a>
 
 ### 📖 Github Status
   
