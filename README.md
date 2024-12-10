@@ -37,15 +37,18 @@
   ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
   ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
   
-  ### 🚌 Top Langs & Algorithm
+  ### Algorithm
   
-  <!-- Solved.ac Profile -->
+  <!-- 백준 Solved.ac Profile -->
   <a href="https://solved.ac/yesslee31">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yesslee31" width="38%">
   </a>
-  
-  <br>
 
+  <!-- 프로그래머스 -->
+  
+  
+  ### 📖 Github Status
+  
   <!-- Most used language -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <picture>
