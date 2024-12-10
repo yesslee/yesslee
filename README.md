@@ -38,12 +38,16 @@
 
 ### Algorithm
 
-<a href="https://solved.ac/yesslee31">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yesslee31" width="36%" />
-</a>
-
-<img src="https://raw.githubusercontent.com/yesslee/Programmers_Badge_Generator/main/result/result.svg" width="50%" />
+<div align="left" style="display: flex;">
+  <!-- Solved.ac Badge -->
+  <a href="https://solved.ac/yesslee31">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yesslee31" width="38%" />
+  </a>
   
+  <!-- Programmers Badge -->
+  <img src="https://raw.githubusercontent.com/yesslee/Programmers_Badge_Generator/main/result/result.svg" width="46%" />
+</div>
+
 ### 📖 Github Status
   
 <!-- Most used language -->
