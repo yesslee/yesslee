@@ -68,11 +68,11 @@
   <picture>
     <!-- 라이트 테마 -->
     <source media="(prefers-color-scheme: light)"
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yesslee&layout=donut&lang_counts=8&show_icons=true&theme=vue&hide_border=true&count_private=true&hide=c%2B%2B%2Ccmake%2Cc%2Chtml&cache_seconds=3600" />
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yesslee&layout=donut&langs_count=8&show_icons=true&theme=vue&hide_border=true&count_private=true&hide=c%2B%2B%2Ccmake%2Cc%2Chtml&cache_seconds=3600" />
     <!-- 다크 테마 -->
     <source media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yesslee&layout=donut&lang_counts=8&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&hide=c%2B%2B%2Ccmake%2Cc%2Chtml&cache_seconds=3600" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesslee&layout=donut&lang_counts=8&show_icons=true&theme=vue&hide_border=true&count_private=true&hide=c%2B%2B%2Ccmake%2Cc%2Chtml&cache_seconds=3600" width=41% />
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yesslee&layout=donut&langs_count=8&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&hide=c%2B%2B%2Ccmake%2Cc%2Chtml&cache_seconds=3600" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesslee&layout=donut&langs_count=8&show_icons=true&theme=vue&hide_border=true&count_private=true&hide=c%2B%2B%2Ccmake%2Cc%2Chtml&cache_seconds=3600" width=41% />
   </picture>
 </a>
 
