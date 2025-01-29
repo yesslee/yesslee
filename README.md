@@ -68,11 +68,11 @@
   <picture>
     <!-- 라이트 테마 -->
     <source media="(prefers-color-scheme: light)"
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yesslee&layout=donut&show_icons=true&theme=vue&hide_border=true&count_private=true&exclude_repo=2022-FileProcessing,webclient-2019-01,CodingTestSolutions" />
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yesslee&layout=donut&show_icons=true&theme=vue&hide_border=true&count_private=true&exclude_repo=2022-FileProcessing,webclient-2019-01,CodingTestSolutions&hide=html" />
     <!-- 다크 테마 -->
     <source media="(prefers-color-scheme: dark)"
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yesslee&layout=donut&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&exclude_repo=2022-FileProcessing,webclient-2019-01,CodingTestSolutions" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesslee&layout=donut&show_icons=true&theme=vue&hide_border=true&count_private=true&exclude_repo=2022-FileProcessing,webclient-2019-01,CodingTestSolutions" width=41% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesslee&layout=donut&show_icons=true&theme=vue&hide_border=true&count_private=true&exclude_repo=2022-FileProcessing,webclient-2019-01,CodingTestSolutions&hide=html" width=41% />
   </picture>
 </a>
 
