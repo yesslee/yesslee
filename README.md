@@ -48,7 +48,7 @@
 - 소프트웨어테스트전문가(CSTS)
 
 ### Awards
-- KB IT's Your Life 5기 종합실무프로젝트 **[Song-E Pay]()** - 최우수상 수상
+- KB IT's Your Life 5기 종합실무프로젝트 **[Song-E Pay](https://github.com/yesslee/song-e-pay)** - 최우수상 수상
 - 2024 KB IT’s Your Life 해커톤 **[I'm Not LOANly]()** - 아이디어상 수상
 
 ### Algorithm
